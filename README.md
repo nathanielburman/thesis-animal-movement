@@ -24,7 +24,11 @@ This thesis also provides wave
 in motion.
 
 
+
+
 EXPERIMENT
+
+
 build a shelf
 
 place any objects on shelf
