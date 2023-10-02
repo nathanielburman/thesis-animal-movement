@@ -22,3 +22,19 @@ This thesis explains why accidents
 This thesis also provides wave
  functions to prevent accidents 
 in motion.
+
+
+EXPERIMENT
+build a shelf
+place any objects on shelf
+cover the shelf and objects
+ask a subject to look at an unveiled shelf
+T = target, track exactly how the aubject moves their eyes
+d = track what direction the subject moves their eyes
+t = time including time since first not le was pressed to the end of the release and the end of a sound.
+T = A+D+S+R+t
+w = the waveform of the sound
+w = A+D+S+R
+T = d+w+t
+
+track the motion if the eyes in space on a x y z axis and use line graphs to track the motion of the eye in 3d space.
