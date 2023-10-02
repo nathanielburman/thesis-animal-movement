@@ -29,13 +29,13 @@ in motion.
 EXPERIMENT
 
 
-build a shelf
+1. build a shelf
 
-place any objects on shelf
+2. place any objects on shelf
 
-cover the shelf and objects
+3. cover the shelf and objects
 
-ask a subject to look at an unveiled shelf
+4. ask a subject to look at an unveiled shelf
 
 T = target, track exactly how the aubject moves their eyes
 
